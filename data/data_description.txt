@@ -10,4 +10,4 @@
 - serum sodium: level of serum sodium in the blood (mEq/L)
 - smoking: if the patient smokes or not (boolean)
 - time: follow-up period (days)
-- [target] death event: if the patient died during the follow-up period (boolean)
+- [target] death event: if the patient died during the follow-up period (boolean) (survived=0, death=1)
