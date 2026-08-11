@@ -1,0 +1,6 @@
+metric,value
+AUC,0.8793324775353016
+F1 (optimized),0.7428571428571429
+Precision (optimized),0.8125
+Recall (optimized),0.6842105263157895
+best_threshold,0.32999999999999985
