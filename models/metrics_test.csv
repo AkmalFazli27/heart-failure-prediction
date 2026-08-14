@@ -1,12 +1,12 @@
 metric,value
-AUC,0.8857509627727855
-F1 (recall optimized),0.7428571428571429
-Precision (recall optimized),0.8125
+AUC,0.8664955070603337
+F1 (recall optimized),0.7027027027027027
+Precision (recall optimized),0.7222222222222222
 Recall (recall optimized),0.6842105263157895
-scale_pos_weight,2.0
-best_threshold,0.4700000000000001
+scale_pos_weight,1.0
+best_threshold,0.34
 target_recall,0.8
-OOF precision at threshold,0.7380952380952381
-OOF recall at threshold,0.8051948051948052
-OOF F1 at threshold,0.7701863354037267
-OOF F2 at threshold,0.7908163265306123
+OOF precision at threshold,0.7682926829268293
+OOF recall at threshold,0.8181818181818182
+OOF F1 at threshold,0.7924528301886793
+OOF F2 at threshold,0.8076923076923077
