@@ -3,6 +3,7 @@ AUC,0.8857509627727855
 F1 (recall optimized),0.7428571428571429
 Precision (recall optimized),0.8125
 Recall (recall optimized),0.6842105263157895
+scale_pos_weight,2.0
 best_threshold,0.4700000000000001
 target_recall,0.8
 OOF precision at threshold,0.7380952380952381
