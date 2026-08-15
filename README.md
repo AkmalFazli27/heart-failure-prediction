@@ -1,5 +1,14 @@
 # Heart Failure Prediction
 
+![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/uv-package%20manager-6E56CF?logo=uv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-data%20analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-numerical%20computing-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-modeling-189FDD?logo=xgboost&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-11557C?logo=matplotlib&logoColor=white)
+
 An end-to-end tabular machine learning project for predicting `DEATH_EVENT` among patients with heart failure.
 
 The project focuses on building a reproducible XGBoost workflow and evaluating how preprocessing, class-imbalance strategies, threshold selection, feature engineering, and feature availability affect model performance.
